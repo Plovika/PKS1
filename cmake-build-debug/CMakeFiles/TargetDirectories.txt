@@ -1,0 +1,3 @@
+D:/pks_proj/PKS1/cmake-build-debug/CMakeFiles/PKS1.dir
+D:/pks_proj/PKS1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/pks_proj/PKS1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
